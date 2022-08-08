@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CursoCSharp_6_nivel_accesibilidad\CursoCSharp_07_nivel_accesibilidad.csproj" />
+  </ItemGroup>
+
+</Project>

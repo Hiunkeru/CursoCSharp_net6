@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CursoCSharp_12_leyendo_argumentos": {
+      "commandName": "Project",
+      "commandLineArgs": "Alberto 15 Hola uno:arg \"Hola mundo\""
+    }
+  }
+}
